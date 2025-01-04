@@ -1,6 +1,6 @@
 # Gesture-Controlled Virtual Mouse
 
-The Gesture-Controlled Virtual Mouse** is an innovative project that simplifies human-computer interaction by using hand gestures and voice commands to perform mouse operations. It eliminates the need for traditional hardware like a mouse, offering a contactless and intuitive user experience.
+The Gesture-Controlled Virtual Mouse is an innovative project that simplifies human-computer interaction by using hand gestures and voice commands to perform mouse operations. It eliminates the need for traditional hardware like a mouse, offering a contactless and intuitive user experience.
 
 ---
 
